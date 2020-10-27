@@ -1,0 +1,26 @@
+@import "./theme.scss";
+
+$svg-size: 24px;
+
+$open-width: 240px;
+$closed-width: 72px;
+
+$open-padding: 12px 0;
+$closed-padding: 10px 5px;
+
+$transition: ease-out 0.4s all;
+
+$text: $dark-light;
+$text-padding-top: 4px;
+$bgc: rgba($dark-middle, 0.95);
+$svgc: white;
+$items-top: 50px;
+
+$hover-bgc: none;
+$hover-text: $dark-text;
+
+$active-bgc: none;
+$active-text: $dark-text;
+
+$checkbox-scale: 0.9;
+$checkbox-text-size: 14px;
